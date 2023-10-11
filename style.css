@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Tilt+Neon&display=swap');
 @media (prefers-color-scheme: dark) {
   body{
   background-image: -webkit-linear-gradient(left, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff); /* For Chrome and Safari */
@@ -16,6 +15,12 @@
   }
 }
 
+
+
 #normal_text {
-  font-family: 'Arvo', serif;
+  font-family: 'Outfit', sans-serif;
+}
+
+#header {
+  font-family: 'Tilt Neon', sans-serif;
 }
