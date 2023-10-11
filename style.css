@@ -18,9 +18,9 @@
 
 
 #normal_text {
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Outfit', sans-serif !important;
 }
 
 #header {
-  font-family: 'Tilt Neon', sans-serif;
+  font-family: 'Tilt Neon', sans-serif !important;
 }
