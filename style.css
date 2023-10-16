@@ -9,10 +9,20 @@
   background-image:         linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff); /* Standard syntax; must be last */
   }
 }
+
+
+@media (prefers-color-scheme: dark) {
+  body{
+    background-color:black;
+    color:white;
+  }
+}
+
+
 @media (prefers-color-scheme: light) {
   body{
-    color:white;
-    text-color:black;
+    background-color:white;
+    color:black;
   }
 }
 
