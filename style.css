@@ -109,3 +109,17 @@ a:hover {
   margin: 1rem 0;
   text-align: center;
 }
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin: 0.75rem 0;
+  padding-left: 0.5rem;
+}
+
+strong {
+  font-weight: 600;
+}
